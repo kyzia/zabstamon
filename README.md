@@ -8,7 +8,8 @@ Tested with Zabbix2.
 
 Before you launch this app you need install Zabbix Api library:
 
-https://github.com/gescheit/scripts/tree/master/zabbix/
+https://github.com/gnetsman/zabbix_api.git
+
 
 See also:
 - Nagstamon official page http://nagstamon.ifw-dresden.de/
